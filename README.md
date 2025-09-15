@@ -1,0 +1,1 @@
+# Build-a-Private-Edge-First-AI-Chatbot-RAG-on-Your-Desktop-with-Source-DefraDB-Vector-Search-Backend
